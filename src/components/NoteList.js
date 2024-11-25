@@ -1,4 +1,4 @@
-// src/components/NoteList.js
+
 import React from 'react';
 import Note from './Note';
 

@@ -7,7 +7,7 @@ const NavBar = ({ setUser }) => {
 
   const handleLogout = () => {
     setUser(null);
-    navigate('/'); // Ensure this navigates to the home page (login page)
+    navigate('/'); 
   };
 
   return (

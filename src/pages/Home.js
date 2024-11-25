@@ -1,4 +1,4 @@
-// src/pages/Home.js
+
 import React from 'react';
 import Login from '../components/Login';
 import Notes from './Notes';

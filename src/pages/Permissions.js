@@ -1,4 +1,4 @@
-// src/pages/Permissions.js
+
 import React from 'react';
 import PermissionManagement from '../components/PermissionManagement';
 

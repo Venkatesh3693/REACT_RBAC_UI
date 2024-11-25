@@ -1,4 +1,4 @@
-// src/components/Note.js
+
 import React, { useState } from 'react';
 
 const Note = ({ note, user, handleDeleteNote, handleUpdateNote }) => {
